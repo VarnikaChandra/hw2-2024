@@ -80,7 +80,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00; 
+    background-color:#008500; 
     text-align:left;
     margin-right: 50px;
     border-top: 2px solid #FFFFFF;
@@ -91,12 +91,11 @@ div{
 }
 
 footer{
-    background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
-    
+    border:5px solid #FFFFFF;
+    background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);  
 }
 
 footer p{
-    border:5px solid #FFFFFF;
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0;
